@@ -1,3 +1,11 @@
-# Web 2 Starter
+# Google Doodle
 
-Put information about your project here. 
+## Brainstorm Ideas
+
+* ABC
+* XYZ
+
+
+## Content Doodle
+
+Your content goes here. 
