@@ -9,5 +9,5 @@ var numRand = Math.floor( Math.random() * max );
 console.log(numRand);
 
 // Display randomized images
-$('img').attr( 'src', eval('img' + numRand) );
+$('#random').attr( 'src', eval('img' + numRand) );
 
